@@ -9,4 +9,4 @@
 
 Стоимость: бесплатно.
 
-Скачать для [macOS](https://github.com/dennyr2d2/WordCard/releases/latest/download/WordCard.dmg)
+Скачать для [macOS](https://github.com/dennyr2d2/WordCard/releases/latest/download/WordCard.dmg). 
