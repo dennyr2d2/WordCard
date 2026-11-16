@@ -10,3 +10,11 @@
 Стоимость: бесплатно.
 
 [Скачать для macOS](https://github.com/dennyr2d2/WordCard/releases/latest/download/WordCard.dmg)
+
+
+## Поддержать проект
+
+Если вам нравится WordCard, вы можете поддержать его развитие:
+
+- [Boosty](https://boosty.to/dennyr2d2)
+- [Buy Me a Coffee](https://buymeacoffee.com/dennyr2d2)
