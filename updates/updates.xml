@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>WordCard</title>
         <item>
-            <title>1.0.16</title>
-            <pubDate>Mon, 16 Nov 2026 18:25:45 +0300</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
+            <title>1.0.17</title>
+            <pubDate>Mon, 16 Nov 2026 18:49:01 +0300</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/dennyr2d2/WordCard/releases/download/v1.0.16/WordCard-1.0.16.zip" length="9360647" type="application/octet-stream" sparkle:edSignature="KDsHC8eoeSh3PkF2PMSi8OdcFK5AQSl4hXVD19d28B1pF6lvwANsqFHjr3VLdqP4a5GvycLoH4/CF1aiJouzDw=="></enclosure>
+            <enclosure url="https://github.com/dennyr2d2/WordCard/releases/download/v1.0.17/WordCard.dmg" length="10452491" type="application/octet-stream" sparkle:edSignature="ajOW9S8os2BvZZAogYokqf5Ijl41s2VVmhR9up4gtbzLJ03QKcwBeWi48nqTDDX4EFDvrcC2QCQU6qptUeEuCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: fW43viyQa+vv0VTOP5b1jzxY99fPLCgG+eh1CPgcMZCQ5t85cXCSa0u8U4PEfR96x4HMtaBgtw4DKVGwp/oOAg==
-length: 1126
+edSignature: te2/11+Bihzitxg2uTViEtNEqnhGvfHJHw+2DPH9KvjB1ig+G5iREFHpRjP9ZVQTyBkST5C2k9bVYq3GqogGAA==
+length: 1120
 -->
