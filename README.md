@@ -1,6 +1,11 @@
 # WordCard
+Изучение иностранных слов по карточкам с интервальным повторением.
 
+Языки: английский – 5050 слов с переводом на русский.
+Уровни сложности: от самых распространённых слов к более редким.
+Перевод каждой части речи.
+6 повторений: через 1, 3, 7, 14, 30 и 60 дней.
 
-[Скачать WordCard для macOS](https://github.com/dennyr2d2/WordCard/releases/latest/download/WordCard.dmg)
+Стоимость: бесплатно.
 
-Откройте скачанный файл и перетащите WordCard в «Программы». Требуется Mac с Apple Silicon и macOS 14 или новее.
+[Скачать для macOS](https://github.com/dennyr2d2/WordCard/releases/latest/download/WordCard.dmg)
