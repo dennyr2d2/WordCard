@@ -1,10 +1,12 @@
-<img
-  src="assets/app-icon.svg"
-  alt="WordCard app icon"
-  width="120"
-/>
+<h1 align="left">
+  <img
+    src="assets/app-icon.svg"
+    alt="WordCard app icon"
+    width="120"
+  /><br>
+  WordCard
+</h1>
 
-# WordCard
 Изучение иностранных слов по карточкам с интервальным повторением.
 
 Языки: английский – 5050 слов с переводом на русский.  
