@@ -1,12 +1,5 @@
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="assets/app-icon.svg" alt="WordCard" width="120">
-      <h1>WordCard</h1>
-    </td>
-  </tr>
-</table>
+# WordCard
 
 Изучение иностранных слов по карточкам с интервальным повторением.
 
