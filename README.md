@@ -8,5 +8,10 @@
 6 повторений: через 1, 3, 7, 14, 30 и 60 дней.
 
 Стоимость: бесплатно на 100%.  
-Скачать для [macOS](https://github.com/dennyr2d2/WordCard/releases/latest/download/WordCard.dmg). 
-<a href="https://github.com/dennyr2d2/WordCard/releases/latest/download/WordCard.dmg"><img src="assets/download-for-macos.svg" alt="Download for macOS" width="160"></a>
+<a href="https://github.com/dennyr2d2/WordCard/releases/latest/download/WordCard.dmg">
+  <img
+    src="assets/download-for-macos.svg"
+    alt="Download WordCard for macOS"
+    width="160"
+  />
+</a>
