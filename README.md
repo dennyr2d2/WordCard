@@ -1,3 +1,8 @@
+<img
+  src="assets/app-icon.svg"
+  alt="WordCard app icon"
+  width="120"
+/>
 # WordCard
 Изучение иностранных слов по карточкам с интервальным повторением.
 
