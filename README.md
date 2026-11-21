@@ -1,24 +1,27 @@
-<h1 align="left">
-  <img
-    src="assets/app-icon.svg"
-    alt="WordCard app icon"
-    width="120"
-  /><br>
-  WordCard
-</h1>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/app-icon.svg" alt="WordCard" width="120">
+      <h1>WordCard</h1>
+    </td>
+  </tr>
+</table>
 
 Изучение иностранных слов по карточкам с интервальным повторением.
 
-Языки: английский – 5050 слов с переводом на русский.  
-Уровни сложности: от самых распространённых слов к более редким.  
-Перевод: точное значение слова для каждой части речи.   
-Произношение: качественное озвучивание слов.  
-6 повторений: через 1, 3, 7, 14, 30 и 60 дней.
+- **Языки:** английский — 5050 слов с переводом на русский.
+- **Уровни сложности:** от самых распространённых слов к более редким.
+- **Перевод:** точное значение слова для каждой части речи.
+- **Произношение:** качественное озвучивание слов.
+- **Повторения:** через 1, 3, 7, 14, 30 и 60 дней.
 
-Стоимость: бесплатно на 100%.  
+**Стоимость:** бесплатно на 100%.
 
-<img
-  src="assets/download-for-macos.svg"
-  alt="Download WordCard for macOS"
-  width="160"
-/>
+<a href="https://github.com/dennyr2d2/WordCard/releases/latest/download/WordCard.dmg">
+  <img
+    src="assets/download-for-macos.svg"
+    alt="Download WordCard for macOS"
+    width="160"
+  >
+</a>
