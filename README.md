@@ -9,11 +9,6 @@
 
 Стоимость: бесплатно на 100%.  
 
-
-
-
-
-
 <a href="https://github.com/dennyr2d2/WordCard/releases/latest/download/WordCard.dmg">
   <img
     src="assets/download-for-macos.svg"
