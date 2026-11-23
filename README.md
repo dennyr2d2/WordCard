@@ -1,8 +1,15 @@
 
 # WordCard
 
-https://github.com/user-attachments/assets/dca5d02a-a37c-45e8-8f07-2e96d22f9342
+<h2 align="center">Demo</h2>
 
+<p align="center">
+  <video
+    src="https://github.com/user-attachments/assets/dca5d02a-a37c-45e8-8f07-2e96d22f9342"
+    width="700"
+    controls>
+  </video>
+</p>
 Изучение иностранных слов по карточкам с интервальным повторением.
 
 - **Языки:** английский – 5050 слов с переводом на русский.
