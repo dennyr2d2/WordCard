@@ -4,7 +4,7 @@
 <h2 align="center">Demo</h2>
 
 <p align="center">
-  <img src="assets/demo.gif" width="600" alt="WordCard Demo">
+  <img src="assets/demo.webp" width="600" alt="WordCard Demo">
 </p>
 
 Изучение иностранных слов по карточкам с интервальным повторением.
