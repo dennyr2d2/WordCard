@@ -1,7 +1,8 @@
 
 # WordCard
 
-<img src="assets/demo.webp" width="600" alt="WordCard Demo">
+<img src="assets/demo-light.webp#gh-light-mode-only" width="500" alt="Light Demo">
+<img src="assets/demo-dark.webp#gh-dark-mode-only" width="500" alt="Dark Demo">
 
 Изучение иностранных слов по карточкам с интервальным повторением.
 
