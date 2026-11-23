@@ -1,8 +1,6 @@
 
 # WordCard
 
-<h2 align="center">Demo</h2>
-
 <p align="center">
   <img src="assets/demo.webp" width="600" alt="WordCard Demo">
 </p>
