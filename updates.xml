@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>WordCard</title>
+        <item>
+            <title>1.0.21</title>
+            <pubDate>Mon, 23 Nov 2026 15:01:54 +0300</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/dennyr2d2/WordCard/releases/download/v1.0.21/WordCard.dmg" length="5867731" type="application/octet-stream" sparkle:edSignature="oc1qq+0xJmfKVteEJuuCAqLC+B2lkcQ3qE6TFkUJ3JwkMQp32IU+HrhcbrKyO/hmE34ma/YTnT3flpeIBmFQAw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: j6zwoAwZqFfUC9xuTJfPOZx/17naOylvA3ZSjLDmmGS8Qn9UuAFMUtNIF42ogIMRd6ScJPA4ltXC1JYein9kAQ==
+length: 1119
+-->
