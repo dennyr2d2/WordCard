@@ -1,9 +1,7 @@
 
 # WordCard
 
-<p align="center">
-  <img src="assets/demo.webp" width="600" alt="WordCard Demo">
-</p>
+assets/demo.webp
 
 Изучение иностранных слов по карточкам с интервальным повторением.
 
