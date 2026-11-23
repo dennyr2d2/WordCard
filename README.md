@@ -1,4 +1,4 @@
-<h1 align="center">WordCard</h1>
+<h3 align="center">WordCard</h3>
 
 <p align="center">Изучение иностранных слов по карточкам с интервальным повторением.</p>
 
