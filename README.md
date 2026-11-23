@@ -1,7 +1,11 @@
 
 # WordCard
 
-https://github.com/user-attachments/assets/6342a636-1db5-4a13-a6f2-3c88433fc3b2
+<h2 align="center">Demo</h2>
+
+<p align="center">
+  <img src="assets/demo.gif" width="600" alt="WordCard Demo">
+</p>
 
 Изучение иностранных слов по карточкам с интервальным повторением.
 
