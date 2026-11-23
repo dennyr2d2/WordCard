@@ -1,7 +1,7 @@
 
 # WordCard
 
-https://github.com/user-attachments/assets/dca5d02a-a37c-45e8-8f07-2e96d22f9342
+https://github.com/user-attachments/assets/6342a636-1db5-4a13-a6f2-3c88433fc3b2
 
 Изучение иностранных слов по карточкам с интервальным повторением.
 
