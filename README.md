@@ -1,9 +1,7 @@
-<h1 align="center">WordCard</h1>
+# WordCard
 
-<p align="center">
-  <img src="assets/demo-light.webp#gh-light-mode-only" width="600" alt="Light Demo">
-  <img src="assets/demo-dark.webp#gh-dark-mode-only" width="600" alt="Dark Demo">
-</p>
+<img src="assets/demo-light.webp#gh-light-mode-only" width="600" alt="Light Demo">
+<img src="assets/demo-dark.webp#gh-dark-mode-only" width="600" alt="Dark Demo">
 
 Изучение иностранных слов по карточкам с интервальным повторением.
 
