@@ -1,4 +1,4 @@
-<h3 align="center">WordCard</h3>
+<h1 align="center">WordCard</h1>
 
 <p align="center">Изучение иностранных слов по карточкам с интервальным повторением.</p>
 
@@ -16,9 +16,5 @@
 **Стоимость:** бесплатно на 100%.
 
 <a href="https://github.com/dennyr2d2/WordCard/releases/latest/download/WordCard.dmg">
-  <img
-    src="assets/download-for-macos.svg"
-    alt="Download WordCard for macOS"
-    width="160"
-  >
+  <img src="assets/download-for-macos.svg" alt="Download for macOS" width="160">
 </a>
