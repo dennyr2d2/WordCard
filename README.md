@@ -4,9 +4,6 @@
 
 <p>Изучение иностранных слов по карточкам с интервальным повторением.</p>
 
-<img src="assets/demo-light.webp#gh-light-mode-only" width="600" alt="Light Demo">
-<img src="assets/demo-dark.webp#gh-dark-mode-only" width="600" alt="Dark Demo">
-
 <p>
   <b>Языки:</b> английский – 5050 слов с переводом на русский.<br>
   <b>Уровни сложности:</b> от самых распространённых слов к более редким.<br>
@@ -14,6 +11,9 @@
   <b>Произношение:</b> качественное озвучивание слов.<br>
   <b>Повторения:</b> через 1, 3, 7, 14, 30 и 60 дней.
 </p>
+
+<img src="assets/demo-light.webp#gh-light-mode-only" width="600" alt="Light Demo">
+<img src="assets/demo-dark.webp#gh-dark-mode-only" width="600" alt="Dark Demo">
 
 <p><b>Стоимость:</b> бесплатно на 100%.</p>
 
