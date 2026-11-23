@@ -1,7 +1,7 @@
 <div align="center">
+<img src="assets/app-icon.svg" width="96" alt="WordCard Icon">
 
 # WordCard
-
 
 </div>
 
