@@ -1,6 +1,8 @@
 
 # WordCard
 
+https://github.com/user-attachments/assets/dca5d02a-a37c-45e8-8f07-2e96d22f9342
+
 Изучение иностранных слов по карточкам с интервальным повторением.
 
 - **Языки:** английский – 5050 слов с переводом на русский.
@@ -13,7 +15,7 @@
 
 <a href="https://github.com/dennyr2d2/WordCard/releases/latest/download/WordCard.dmg">
   <img
-    src="assets/download-for-macos.svg"
+    src="download-for-macos.svg"
     alt="Download WordCard for macOS"
     width="160"
   >
