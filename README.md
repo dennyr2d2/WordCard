@@ -13,7 +13,7 @@
 
 <a href="https://github.com/dennyr2d2/WordCard/releases/latest/download/WordCard.dmg">
   <img
-    src="download-for-macos.svg"
+    src="assets/download-for-macos.svg"
     alt="Download WordCard for macOS"
     width="160"
   >
