@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/6342a636-1db5-4a13-a6f2-3c88433fc3b2
 
 <a href="https://github.com/dennyr2d2/WordCard/releases/latest/download/WordCard.dmg">
   <img
-    src="download-for-macos.svg"
+    src="assets/download-for-macos.svg"
     alt="Download WordCard for macOS"
     width="160"
   >
