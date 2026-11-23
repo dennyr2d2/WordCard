@@ -1,4 +1,5 @@
 <h1 align="center">
+  <br>
   <img src="assets/app-icon.svg" width="110" alt="WordCard Icon"><br>
   WordCard
 </h1>
