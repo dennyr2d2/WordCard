@@ -1,9 +1,7 @@
-<div align="center">
-<img src="assets/app-icon.svg" width="96" alt="WordCard Icon">
-
-# WordCard
-
-</div>
+<h1 align="center">
+  <img src="assets/app-icon.svg" width="128" alt="WordCard Icon"><br>
+  WordCard
+</h1>
 
 Изучение иностранных слов по карточкам с интервальным повторением.
 
