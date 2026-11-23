@@ -1,9 +1,11 @@
-# WordCard
+<h1 align="center">WordCard</h1>
 
-<img src="assets/demo-light.webp#gh-light-mode-only" width="600" alt="Light Demo">
-<img src="assets/demo-dark.webp#gh-dark-mode-only" width="600" alt="Dark Demo">
+<p align="center">Изучение иностранных слов по карточкам с интервальным повторением.</p>
 
-Изучение иностранных слов по карточкам с интервальным повторением.
+<p align="center">
+  <img src="assets/demo-light.webp#gh-light-mode-only" width="600" alt="Light Demo">
+  <img src="assets/demo-dark.webp#gh-dark-mode-only" width="600" alt="Dark Demo">
+</p>
 
 - **Языки:** английский – 5050 слов с переводом на русский.
 - **Уровни сложности:** от самых распространённых слов к более редким.
