@@ -24,7 +24,7 @@
 **Стоимость:** бесплатно на 100%.
 
 <p>
-  <a href="https://github.com/dennyr2d2/WordCard/releases/latest/download/WordCard.dmg">
+  <a href="https://github.com/Lunovei/WordCard/releases/latest/download/WordCard.dmg">
     <img src="assets/download-for-macos.svg" width="160" alt="Download for macOS">
   </a>
 </p>
