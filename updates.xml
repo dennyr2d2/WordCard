@@ -4,20 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>WordCard</title>
         <item>
-            <title>1.0.24</title>
-            <pubDate>Thu, 26 Nov 2026 13:09:38 +0000</pubDate>
+            <title>1.0.26</title>
+            <pubDate>Fri, 27 Nov 2026 08:09:43 +0000</pubDate>
             <link>https://github.com/Lunovei/WordCard/releases/latest</link>
             <sparkle:informationalUpdate>
                 <sparkle:belowVersion>33</sparkle:belowVersion>
             </sparkle:informationalUpdate>
-            <sparkle:version>34</sparkle:version>
-            <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>1.0.26</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Lunovei/WordCard/releases/download/v1.0.24/WordCard.dmg" length="5867759" type="application/octet-stream" sparkle:edSignature="yxAReJXxby+xVO2hIA1TEJtHogdxZhCWULFXHacQUrq+3mwqGWZh/ifwoRS6JvMBYRUWHseJZpGqdKAVvlWLDQ=="></enclosure>
+            <enclosure url="https://github.com/Lunovei/WordCard/releases/download/v1.0.26/WordCard.dmg" length="5867569" type="application/octet-stream" sparkle:edSignature="EF7naV/iVDNDC4UGFphq/c6feoPciYu5s8lQCqjmsxtbElCK4GoL3lMRpui+0fQ1Z1BsiagbMHa5Fb63ijv+Bg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: qq5X80q5EFpOv+qbBoC68TrWo7CiPojrWhOaxRDF8VmMG2ofVsj+ERk2TXoQbWG2DHYyLvuT1yHCx7mP5UsGAA==
+edSignature: qSeHzQpujcRgduMcrjBFcTob/oVvWXz6omFUyIwFnwDW25pQcd0lKCOABi21fOhCwBptlTEAqEUyK7oc5ROKAw==
 length: 1343
 -->
